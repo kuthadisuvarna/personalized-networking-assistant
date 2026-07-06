@@ -27,3 +27,4 @@ uvicorn main:app --reload
 Start Streamlit:
 
 streamlit run frontend/app.py
+https://drive.google.com/file/d/1ucwV7Ong6PmNfCXQ9J9XpETTBpWNz8nK/view
