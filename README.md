@@ -104,6 +104,7 @@ streamlit run frontend/app.py
 
 ---
 
+
 # 👩‍💻 Author
 
 **Kuthadi Suvarna**
@@ -112,12 +113,26 @@ B.Tech CSE
 
 ---
 
+<<<<<<< HEAD
 # ⭐ Thank You
 ---
 
+=======
+>>>>>>> 1af4eb48468d8208df8ed0ff94c52017341d9713
 # 🎥 Demo Video
 
 Watch the project demonstration here:
 
 **Google Drive:**  
+<<<<<<< HEAD
 https://drive.google.com/file/d/1ucwV7Ong6PmNfCXQ9J9XpETTBpWNz8nK/view
+=======
+https://drive.google.com/file/d/1ucwV7Ong6PmNfCXQ9J9XpETTBpWNz8nK/view
+
+---
+
+# ⭐ Thank You
+
+Thank you for visiting this repository. Feel free to explore the project and provide your feedback.
+
+>>>>>>> 1af4eb48468d8208df8ed0ff94c52017341d9713
